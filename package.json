@@ -1,0 +1,15 @@
+{
+  "name": "sportmind-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erno Bartha <barthaernot@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tslint": "^5.13.0",
+    "typescript": "^3.3.3333"
+  }
+}
